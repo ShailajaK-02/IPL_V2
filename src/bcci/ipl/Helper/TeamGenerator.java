@@ -3,7 +3,7 @@ package bcci.ipl.Helper;
 import bcci.ipl.Entity.Team;
 
 //Team is entity class 
-
+//Methods for team
 public class TeamGenerator {
 		
 		public static Team getRCBTeam() {
